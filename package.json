@@ -1,0 +1,39 @@
+{
+  "name": "Simple_handlebars-gulp_template",
+  "version": "0.0.2",
+  "description": "Simple_handlebars-gulp_template",
+  "license": "MIT",
+  "repository": "",
+  "author": {
+    "name": "Diana Garcia",
+    "email": "diana.laura.garcia@gmail.com"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "dependencies": {
+    "gulp-handlebars-all": "^0.1.1",
+    "gulp-util": "^3.0.3",
+    "handlebars": ">=3.0.0",
+    "through2": "^0.6.3"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^2.0.12",
+    "gulp-combine-mq": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-csslint": "^1.0.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-folders": "^1.1.0",
+    "gulp-htmlhint": "^0.3.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-load-plugins": "^1.4.0",
+    "gulp-minifier": "^0.1.4",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "install": "^0.8.1",
+    "jshint": "^2.9.3",
+    "mocha": "*",
+    "npm": "^3.10.7"
+  }
+}
